@@ -1,0 +1,6 @@
+com\diw\test\StudentRegistrationTest.class
+com\diw\test\AdminLoginPageTest.class
+com\diw\test\ContactPageTest.class
+com\diw\test\StudentLoginTest.class
+com\diw\test\TestDataProvider.class
+com\diw\test\TutorLoginPageTest.class
